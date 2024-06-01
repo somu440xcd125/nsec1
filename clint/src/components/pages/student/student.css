@@ -1,0 +1,25 @@
+.scontainer{
+    /* background-color: #ffefef; */
+    background: rgb(218,218,218);
+    background: linear-gradient(90deg, rgba(218,218,218,1) 15%, rgba(255,251,225,1) 100%, rgba(0,212,255,1) 100%);
+    
+    width: 35%;
+    padding: 20px;
+    border-radius: 10px;
+   
+   
+}
+.profilelogo{
+    font-size: 50px;
+}
+#profile{
+    /* border: 2px solid red; */
+    margin:4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 120px;
+    background-color: #d7cbcb;
+}
+.headingp{
+    font-size: 10px;
+
+}

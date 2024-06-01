@@ -1,0 +1,28 @@
+.faculty-section {
+    background-color: #f7f7f7;
+    padding: 20px;
+   
+  }
+  
+  .faculty-section h2 {
+    margin-bottom: 20px;
+  }
+ .name{
+  font-size: 25px;
+ }
+ 
+ .section{
+  background-color: rgb(233, 235, 241);
+  width: 1200px;
+  padding: 20px;
+ }
+ 
+ .top-margin{
+  margin-top: 0px;
+ }
+  
+ .footer{
+  background-color: azure;
+ }
+ 
+  
