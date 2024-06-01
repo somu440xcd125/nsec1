@@ -44,7 +44,7 @@ function Home() {
                     </div>
 
                 </Link>
-                <Link to="/Contactmail" className='card'>
+                <Link to="/Contactmail" className='card new'>
                     <div className='card-inner'>
                         <h3 id='txt'>Mail</h3>
                         <BsPeopleFill className='card_icon' />

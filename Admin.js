@@ -4,12 +4,12 @@ import Home from './Home'
 function Admin() {
   return (
     <section>
-      <div >
+      <div className='containair' >
 
         <Home />
       </div>
     </section>
-  )
+  ) 
 }
 
 export default Admin

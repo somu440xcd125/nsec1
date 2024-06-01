@@ -54,7 +54,7 @@ export const ContactMail = () => {
                             message={mail.message}
                         />
                         <div className="submit container">
-                <button className='btn btn-primary 'onClick={handleSubmit}>reply</button>
+                <button className='btn btn-primary btn'onClick={handleSubmit}>reply</button>
         </div>
                     </li>
                 ))}
